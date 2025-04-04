@@ -1,5 +1,7 @@
 ## Woof 🐾
 
+6261726B6261726B6261726B0A617772756666662120776F6F6620727772756666203A33
+
 <!--
 **dogwoman/dogwoman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
